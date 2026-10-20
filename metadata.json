@@ -1,0 +1,6 @@
+{
+  "name": "Jelajah Budaya Nusantara",
+  "description": "Aplikasi edukasi interaktif mengenal kebudayaan dan identitas suku bangsa Indonesia untuk anak-anak sekolah dasar, dilengkapi kuis menjodohkan dan eksplorasi budaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
